@@ -255,12 +255,6 @@ De volgende locaties vallen onder de greenzone:
 
 <img src="https://i.imgur.com/mmF8Ehz.png?width=403&height=230" />
 
-
-* Blokkenpark
-
-<img src="https://i.imgur.com/1HYJxq2.png" />
-
-
 * Politiebureau
 
 <img src="https://i.imgur.com/lcaWIgI.pngwidth=403&height=230" />
@@ -430,6 +424,8 @@ Wordt er geconstateerd dat u dit wel doet dan volgt er een waarschuwing. Na meer
 ### Voertuigen
 Pitten boven de 100 km/uur is verboden.
 
+Als jij een frontale crash boven de 100km/uur maakt met jou voertuig kan jij niet meer verder rijden. (met uitzondering van een postbus of een klein paaltje)
+
 Break checken is verboden of ervaar de consequenties.
 
 Het pakken van een voertuig uit uw garage tijdens een scenario is verboden.
@@ -455,7 +451,7 @@ New life rule in de gangwar betekent dat nadat u bent gestorven tijdens het scen
 
 Het is verplicht de gangkleding te dragen tijdens een gangwar. Als u dood bent moet u andere kledij aantrekken zodat u niet herkenbaar bent als ganglid dat nog mee doet aan de gangwar.
 
-Een gangwar moet in twitter of nieuws worden vermeld zodat de tegenpartij op de hoogte wordt gesteld. 
+Een gangwar moet aangekondigd worden in discord met een tag van beide gangs en management zodat de tegenpartij op de hoogte wordt gesteld. 
 
 De personen die zijn vermoord tijdens de gangwar moeten worden bijgehouden door de gangbaas of onderbaas.
 
